@@ -3,4 +3,4 @@ Algumas das questões mais interessantes que eu já resolvi na plataforma https:
 
 Favor sempre buscar entender a solução ao invés de apenas copiar e colar
 
-Todas as soluções forma escritas em linguagem C
+Todas as soluções foram escritas em linguagem C
